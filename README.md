@@ -1,1 +1,2 @@
-This Currency Converter is a Java Swing-based GUI application that allows users to convert amounts between multiple currencies with correct currency symbols (₹, $, €, £, ¥, C$). It features an intuitive drop-down selection, real-time conversion, and error handling for invalid inputs. The UI is designed using GridBagLayout for structured alignment, and conversion rates are stored in a HashMap for easy retrieval. Future enhancements include live exchange rate integration, dark mode UI, and conversion history tracking
+This repository describes the projects completed during the internship period at CloudCredits Technologies Pvt.Ltd
+In the domain -'Core Java'
